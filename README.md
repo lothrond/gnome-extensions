@@ -1,5 +1,5 @@
-gnome-extenstions
-=================
+gnome-extensions
+================
 
 launch gnome-shell-extensions.
 
