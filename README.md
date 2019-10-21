@@ -7,7 +7,8 @@ launch gnome-shell-extensions.
 
 install:
 
-	sudo make install
+    sudo make install
 
 remove:
-	sudo make remove
+
+    sudo make remove
