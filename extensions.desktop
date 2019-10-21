@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Extensions
+Comment=Use a GTK-based frontend to the GNOME shell extensions
+Icon=extension
+Exec=gnome-shell-extension-prefs
+StartupNotify=true
+Type=Application
+Categories=System;
+GenericName=extensions
